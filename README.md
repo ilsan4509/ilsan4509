@@ -5,7 +5,7 @@
 ## 🚀 Current Focus
 Learning **API testing** (REST API automation with Java) and **automated UI testing** (Selenium WebDriver with Java). Regularly adding new automation scripts and test frameworks on **GitHub**.
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilsan4509" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilsan4509)](https://git.io/streak-stats)
 </p>
 <h2 align="center">Studying</h2>
 <p align="center">
