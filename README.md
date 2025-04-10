@@ -4,7 +4,9 @@
 
 ## 🚀 Current Focus
 Learning **API testing** (REST API automation with Java) and **automated UI testing** (Selenium WebDriver with Java). Regularly adding new automation scripts and test frameworks on **GitHub**.
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ilsan4509&theme=dark" />
+</p>
 <h2 align="center">Studying</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/REST%20API-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="REST API" />
